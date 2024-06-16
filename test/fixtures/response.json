@@ -1,0 +1,24 @@
+{
+    "issue": [
+        {
+            "id": 1,
+	        "title": "Challenge - create data",
+            "description": "The task is to create data from a post endpoint"
+        },
+        {
+            "id": 2,
+            "title": "Challenge - read data",
+            "description": "The task is to read data by id from a get endpoint"
+        },
+        {
+            "id": 3,
+            "title": "Challenge - update data",
+            "description": "The task is to update data by id from a patch endpoint"
+        },
+        {
+            "id": 4,
+            "title": "Challenge - delete data",
+            "description": "The task is to delete data by id from a delete endpoint"
+        }
+    ]
+}
